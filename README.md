@@ -16,12 +16,16 @@ Este é um aplicativo de geração de QR Code com uma interface gráfica intuiti
 - Pré-visualização do QR Code antes de salvar
 - Salvar QR Code como imagem `.png`
 
+## 🎥 Demonstração
+
+![Demonstração do projeto](assets/demonstracao.gif)
+
 ## 🛠️ Bibliotecas Utilizadas
 
-- [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
-- [qrcode](https://pypi.org/project/qrcode/)
-- [pybrcode](https://github.com/ViniciusFM/pybrcode)
-- [Pillow (PIL)](https://pypi.org/project/Pillow/)
+- [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) (interface gráfica)
+- [qrcode](https://pypi.org/project/qrcode/) (geração de QRCodes)
+- [pybrcode](https://github.com/ViniciusFM/pybrcode) (geração de QRCodes para chaves PIX)
+- [Pillow (PIL)](https://pypi.org/project/Pillow/) (manipulação de imagens)
 
 ## 📂 Estrutura do Projeto
 
